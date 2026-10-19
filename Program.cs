@@ -4,7 +4,7 @@ namespace advanced01
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
 
             #region  q1
